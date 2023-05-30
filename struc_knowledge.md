@@ -26,6 +26,6 @@ Graphical frontend for launchd: "https://www.soma-zone.com/LaunchControl/"
     - Maby sound visualizer?
 
 
-
+test
 # Project Ideas!
   - Ableton style EQ application for PC instead of eq apo
