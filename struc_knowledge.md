@@ -31,12 +31,14 @@
 >Morgen:
 
 
-### Essen
+## Essen
 **Morgen:**
-  - 
+  - fisch, fleisch etc...
+  - blablub
 
 **Tag:**
   fisch, fleisch, 
+  bla, blub djehsf
 
 **Abend:**
   
@@ -44,8 +46,8 @@
 **Psychisch *1-6***
 
 # Ursachen
-Dopamin: 
-Bewegung: 
+Dopamin: 3-4
+Bewegung: 1
 Fokusdauer: 
 
 # Folgen
@@ -55,8 +57,8 @@ Stimmung:
 
 **Bauch/Hals *1-6***
 ```yaml
-Morgen: 
-Mittags: 
+Morgen: 1
+Mittags: 3-4
 Abends: 
 
 ```
