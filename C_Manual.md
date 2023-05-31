@@ -30,10 +30,10 @@
     char * name = "John Smith";
     ```
   - normal string: 
-    <!---
-    `empty brackets: compiler calculates size automatic!` 
-    `you have to make the string 1 more than acutal length` 
-    `because of special char that indicates the length of a string` 
+    <!--
+    empty brackets: compiler calculates size automatic!
+    you have to make the string 1 more than acutal length
+    because of special char that indicates the length of a string
     -->
     
     ```c
