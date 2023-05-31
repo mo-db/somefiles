@@ -11,7 +11,7 @@
     - #define TRUE 1
 
 ### Arrays
-  - int numbers[10]; `array with size 10`
+  - int numbers[10]; <!---array with size 10---
   - Multidimensional:
     ```c
     char vowels[2][5] = {
@@ -20,6 +20,23 @@
     };
     int val vowels[2][3]; // would be o
     ```
-### if statement
+### If statement
   - if(a == / < / > b) {};
-  - if(a < b && / || / != b > c) {};`&& AND, || OR, != NOT`
+  - if(a < b && / || / != b > c) {}; `&& AND, || OR, != NOT`
+
+### Strings sind in C char arrays
+  - pointer to character array: <!---string only usable for reading--->
+    ```c
+    char * name = "John Smith";
+    ```
+  - normal string: 
+    <!---
+    - empty brackets: compiler calculates size automatic!
+    - you have to make the string 1 more than acutal length 
+      because of special char that indicates the length of a string
+    -->
+    ```c
+    char name[] = "John Smith";
+    /* is the same as */
+    char name[11] = "John Smith";
+    ```
