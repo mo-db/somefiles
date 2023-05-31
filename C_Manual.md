@@ -29,9 +29,10 @@
     ```c
     char * name = "John Smith";
     ```
-  - normal string: 
+  - normal string\ 
+    'sdfasdf'
     `- empty brackets: compiler calculates size automatic!`\
-    `- you have to make the string 1 more than acutal length\`
+    `- you have to make the string 1 more than acutal length`\
     `- because of special char that indicates the length of a string`
     
     ```c
