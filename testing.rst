@@ -27,3 +27,41 @@
 
 ####Project Ideas!
   - Ableton style EQ application for PC instead of eq apo!
+
+>Morgen:
+
+
+## Essen
+**Morgen:**
+  - fisch, fleisch etc...
+  - blablub
+
+**Tag:**
+  fisch, fleisch, 
+  bla, blub djehsf
+
+**Abend:**
+  
+
+**Psychisch *1-6***
+
+# Ursachen
+Dopamin: 3-4
+Bewegung: 1
+Fokusdauer: 
+
+# Folgen
+Klarheit: 
+Stimmung: 
+
+
+**Bauch/Hals *1-6***
+```yaml
+Morgen: 1
+Mittags: 3-4
+Abends: 
+
+```
+**Tagebuch**
+
+this is some `further` testing
