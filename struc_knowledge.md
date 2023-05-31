@@ -27,4 +27,4 @@ Graphical frontend for launchd: "https://www.soma-zone.com/LaunchControl/"
 
 
 # Project Ideas!
-  - Ableton style EQ application for PC instead of eq apo
+  - Ableton style EQ application for PC instead of eq apo!
