@@ -3,5 +3,4 @@
 
 int main() {
     char name[] = "John";
-    strcat();
 }
