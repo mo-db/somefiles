@@ -46,4 +46,10 @@
     char name[] = "John Smith";
     /* is the same as */
     char name[11] = "John Smith";
+    int age = 27;
+    printf("%s is %d years old.\n", name, age);
+    strlen(name); //length of string passed as arg
+    strncmp(name "Jonas", 5); //compare if equal, return 0
+    strncat();
+    sprintf(); //Writes to string
     ```
