@@ -53,3 +53,13 @@
     strncat();
     sprintf(); //Writes to string
     ```
+
+### While Loop
+- Can be infinite if allways true (non 0)
+    ```c
+    while (1) {
+        /* do something */
+    }
+    ```
+- break and continue can halt or continue the loop and skip the rest
+
