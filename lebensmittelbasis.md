@@ -45,7 +45,7 @@ In kleinen Mengen:
 - Thymian, Basilikum, Zitronengras, Pfeffer, Petersilie, Minze
     Koriander
 
-# ~*Sauermilchprodukte*~ Eventuell
+## ~*Sauermilchprodukte*~ Eventuell
 - Naturjoghurt, Grichischer Joghurt, Feta, Quark, Schmand
 
 ## Fleisch
