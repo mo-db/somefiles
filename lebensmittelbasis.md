@@ -6,7 +6,7 @@
 - Hirse
 
 ## Reis
-- Naturreis, Reiswaffeln, Reisnudeln, Reiskleiebrot, *Reisdrink*
+- Naturreis, Reiswaffeln, Reisnudeln, Reiskleiebrot, ~*Reisdrink*~
 
 ## Soja
 - Sojamilch, Sojasahne, Sojasoße (Tamari)
@@ -17,21 +17,21 @@
 ## Kichererbsen
 - Kichererbsen, Humus, Kichererbsenmehl
 
-## *Hafer*
+## ~*Hafer*~
 
 ## Nüsse/Samen
 - Erdnusscreme, Erdnüsse, Mandelcreme, Cashewnüsse, Sesam, Tahini
-    *Mandelmilch*, Kürbiskerne, Sonnenblumenkerne
+    ~*Mandelmilch*~, Kürbiskerne, Sonnenblumenkerne
 
 ## Öle
 - Olivenöl, Rapsöl, Sesamöl, Erdnussöl, ~*Margarine*~
 
 ## Gemüse
-- Erbsen, Spinat, Brokkoli, Chinakohl, Fenchel, Grünkohl, Karotte
-    Tomate, *Kohlrabi*, *Zwiebeln*, *Knoblauch*, Kürbis, *Lauch*, 
-    Frühlingszwiebeln, Meerrettich, Oliven, *Radieschen*, Radicchio
+- ~*Erbsen*~, Spinat, ~*Brokkoli*~, Chinakohl, Fenchel, Grünkohl, Karotte
+    Tomate, ~*Kohlrabi*~, ~*Zwiebeln*~, ~*Knoblauch*~, Kürbis, ~*Lauch*~, 
+    Frühlingszwiebeln, Meerrettich, Oliven, ~*Radieschen*~, Radicchio
     Zucchini, Grüner Spargel, Rucola, Feldsalat, Eisbergsalat,
-    Algen, Kresse, Grüne Bohnen, Kapern, *Rettich*, Römersalat
+    Algen, Kresse, Grüne Bohnen, Kapern, ~*Rettich*~, Römersalat
 
 ## Obst
 - Himbeeren, Brombeeren, Erdbeeren, Limette, Rhababer, Zitrone, 
@@ -45,7 +45,7 @@ In kleinen Mengen:
 - Thymian, Basilikum, Zitronengras, Pfeffer, Petersilie, Minze
     Koriander
 
-# *Sauermilchprodukte* Eventuell
+# ~*Sauermilchprodukte*~ Eventuell
 - Naturjoghurt, Grichischer Joghurt, Feta, Quark, Schmand
 
 ## Fleisch
