@@ -24,7 +24,7 @@
     ~*Mandelmilch*~, Kürbiskerne, Sonnenblumenkerne
 
 ## Öle
-- Olivenöl, Rapsöl, Sesamöl, Erdnussöl, ~*Margarine*~
+- Olivenöl, Rapsöl, Sesamöl, Erdnussöl, Margarine
 
 ## Gemüse
 - ~*Erbsen*~, Spinat, ~*Brokkoli*~, Chinakohl, Fenchel, Grünkohl, Karotte
