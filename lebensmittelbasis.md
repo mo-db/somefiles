@@ -1,56 +1,41 @@
-## Mais
-- Maismehl, Maisgries (Polenta), Maiskolben, Cornflakes, Maisnudeln,
-    Maisfladen (Arepa), Maiswaffeln, Maisbrot
+## Getreide/Basis **Nickel 1-6**
+### Roggen *NI[1]*
+- Weißes Mehl, Vollkorn Mehl, Flocken, Pumpernickel, Brot
 
-## Hirse
-- Hirse
+### Weizen (Weiß) *NI[1]*
+- Mehl, Grieß, Nudeln, Brot
 
-## Reis
-- Naturreis, Reiswaffeln, Reisnudeln, Reiskleiebrot, ~*Reisdrink*~
+### Kartoffeln *NI[1]*
+- Gekocht, Gebraten, Gnocchi, Pommes, Chips
 
-## Soja
-- Sojamilch, Sojasahne, Sojasoße (Tamari)
+### Dinkel *NI[2]*
+- Flocken, Mehl, Brot, Nudeln
 
-## Kartoffeln
-- Kartoffel, Glasnudeln
-
-## Kichererbsen
-- Kichererbsen, Humus, Kichererbsenmehl
-
-## ~*Hafer*~
-
-## Nüsse/Samen
-- Erdnusscreme, Erdnüsse, Mandelcreme, Cashewnüsse, Sesam, Tahini
-    ~*Mandelmilch*~, Kürbiskerne, Sonnenblumenkerne
-
-## Öle
-- Olivenöl, Rapsöl, Sesamöl, Erdnussöl, Margarine
-
-## Gemüse
-- ~*Erbsen*~, Spinat, ~*Brokkoli*~, Chinakohl, Fenchel, Grünkohl, Karotte
-    Tomate, ~*Kohlrabi*~, ~*Zwiebeln*~, ~*Knoblauch*~, Kürbis, ~*Lauch*~, 
-    Frühlingszwiebeln, Meerrettich, Oliven, ~*Radieschen*~, Radicchio
-    Zucchini, Grüner Spargel, Rucola, Feldsalat, Eisbergsalat,
-    Algen, Kresse, Grüne Bohnen, Kapern, ~*Rettich*~, Römersalat
-
-## Obst
-- Himbeeren, Brombeeren, Erdbeeren, Limette, Rhababer, Zitrone, 
-    Physalis, Kaktusfeigen
-
-In kleinen Mengen:
-- Mandarine, Litschi, Sauerkirschen,
+### Weizen/Dinkel Vollkorn *NI[3]*
+### Gerste, Reis, Mais *NI[4]*
+### Hirse, Buchweizen, Hafer *NI[5]*
+### Nüsse, Samen *NI[6]*
 
 
-## Gewürze
-- Thymian, Basilikum, Zitronengras, Pfeffer, Petersilie, Minze
-    Koriander
+## Gemüse **
+### *NI[1]*, *FR[1]*
+- Chinakohl, *Spinat (NI variiert)*, Ingwer, Feldsalat, Blattsalat, 
+    Endiviensalat, Friseesalat, Lauch, Gurke, Zwiebel, Essiggurke, 
+    Oliven, Okra (Gemüse-Eibisch),
 
-## ~*Sauermilchprodukte*~ Eventuell
-- Naturjoghurt, Grichischer Joghurt, Feta, Quark, Schmand
+### *NI[1]*, *FR[2]*
+- Karotte, Zucchini, Kohlrabi, Tomate, Steckrübe, Kürbis
 
-## Fleisch
-- Pute, Huhn
+### *NI[2]*, *FR[1]*
+-  Grünkohl, 
 
-## Fisch
-- Garnelen, Muscheln, Tintenfisch
+### *NI[2]*, *FR[2]*
+- Blumenkohl, Kohlrabi, Brokkoli, 
 
+
+
+## *Nickel: Eher nicht essen!*
+- Algen, Fenchel, Bohnen, Pok Choi,
+
+## *Sorbit: Eher nicht essen*
+- Sellerie
